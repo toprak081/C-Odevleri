@@ -1,0 +1,7 @@
+C:\Users\Toprak\source\repos\sayiokunus\sayiokunus\bin\Debug\sayiokunus.exe.config
+C:\Users\Toprak\source\repos\sayiokunus\sayiokunus\bin\Debug\sayiokunus.exe
+C:\Users\Toprak\source\repos\sayiokunus\sayiokunus\bin\Debug\sayiokunus.pdb
+C:\Users\Toprak\source\repos\sayiokunus\sayiokunus\obj\Debug\sayiokunus.csproj.AssemblyReference.cache
+C:\Users\Toprak\source\repos\sayiokunus\sayiokunus\obj\Debug\sayiokunus.csproj.CoreCompileInputs.cache
+C:\Users\Toprak\source\repos\sayiokunus\sayiokunus\obj\Debug\sayiokunus.exe
+C:\Users\Toprak\source\repos\sayiokunus\sayiokunus\obj\Debug\sayiokunus.pdb
