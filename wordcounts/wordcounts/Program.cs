@@ -15,15 +15,17 @@ namespace wordcounts
 
             int wordcount = countwordnumber(text);
 
-            Console.WriteLine($"Metinde geçen kelimelerin sayısı: {wordcount}");
+            Console.WriteLine($"Metinde gecen kelimelerin sayısı: {wordcount}");
 
-            Console.WriteLine("Program sona erdi. Çıkış yapmak için bir tuşa basın.");
+            Console.WriteLine("Program sona erdi. Çıkıs yapmak icin bir tusa basın.");
             Console.ReadKey();
         }
 
         static int countwordnumber(string text)
         {
-            string[] words = text.Split(' ', '.', ',', '!', '?');
+           
+            string[] words = text.Split(new char[] { ' ', '.', ',', '!', '?' }, StringSplitOptions.RemoveEmptyEntries);
+
             return words.Length;
         }
     }
