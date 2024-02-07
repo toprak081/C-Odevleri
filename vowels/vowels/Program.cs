@@ -13,13 +13,13 @@ namespace vowels
         {
             Console.WriteLine("Metini giriniz:");
             string text = Console.ReadLine();
-            int totalvowels = countvowels(text);
+            int totalvowels = CountVowels(text);
             Console.WriteLine("Toplam sesli harf sayısı: " + totalvowels);
+            
+            Console.ReadLine();
         }
-
-        static int countvowels(string text)
+        static int CountVowels(string text)
         {
-            string vowels = "aeıioöuüAEIİOÖUÜ";
             int totalvowels = 0;
 
             foreach (char character in text)
