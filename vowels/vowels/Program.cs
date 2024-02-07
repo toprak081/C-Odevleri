@@ -8,6 +8,7 @@ namespace vowels
 {
     internal class Program
     {
+        private static readonly string vowels = "aeıioöuüAEIİOÖUÜ";
         static void Main(string[] args)
         {
             Console.WriteLine("Metini giriniz:");
