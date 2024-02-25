@@ -1,0 +1,7 @@
+C:\Users\Toprak\source\repos\Finding a Palindrome\Finding a Palindrome\bin\Debug\Finding a Palindrome.exe.config
+C:\Users\Toprak\source\repos\Finding a Palindrome\Finding a Palindrome\bin\Debug\Finding a Palindrome.exe
+C:\Users\Toprak\source\repos\Finding a Palindrome\Finding a Palindrome\bin\Debug\Finding a Palindrome.pdb
+C:\Users\Toprak\source\repos\Finding a Palindrome\Finding a Palindrome\obj\Debug\Finding a Palindrome.csproj.AssemblyReference.cache
+C:\Users\Toprak\source\repos\Finding a Palindrome\Finding a Palindrome\obj\Debug\Finding a Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Toprak\source\repos\Finding a Palindrome\Finding a Palindrome\obj\Debug\Finding a Palindrome.exe
+C:\Users\Toprak\source\repos\Finding a Palindrome\Finding a Palindrome\obj\Debug\Finding a Palindrome.pdb
